@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34025'
     url: http://www.gutenberg.org/2009/agents/34025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29608#Personal-Recollections-of-a-CavalrymanWith-Custer-s-Michigan-Cavalry-Brigade-in-the-Civil-War
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2009-08-04'
 gutenberg_type: Text
