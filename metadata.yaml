@@ -1,0 +1,36 @@
+_repo: Personal-Recollections-of-a-CavalrymanWith-Custer-s-Michigan-Cavalry-Brigade-in-the-Civil-War_29608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kidd, James Harvey
+    alias: Kidd, J. H. (James Harvey)
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '34025'
+    url: http://www.gutenberg.org/2009/agents/34025
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2009-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Michigan -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Michigan -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Kidd, James Harvey, 1840-1913'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Soldiers -- Michigan -- Biography'
+- !lcsh 'United States. Army. Michigan Cavalry Brigade (1862-1865)'
+title: 'Personal Recollections of a Cavalryman
+
+  With Custer''s Michigan Cavalry Brigade in the Civil War'
+url: http://www.gutenberg.org/ebooks/29608
